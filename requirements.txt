@@ -1,0 +1,6 @@
+telethon
+dotenv
+pandas
+telethon
+opencage
+google-generativeai
